@@ -26,8 +26,8 @@ A Telegram bot that allows users to download photos and videos from Instagram po
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/instagram-downloader-bot.git
-   cd instagram-downloader-bot
+   git clone https://github.com/asad1kk/ig-downloader.git
+   cd ig-downloader
    ```
 
 2. Install dependencies:
