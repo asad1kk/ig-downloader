@@ -1,0 +1,7 @@
+telethon==1.39.0
+# pyrogram removed and replaced with telethon
+# tgcrypto removed due to C++ build tools requirement
+instaloader==4.10.2
+yt-dlp==2023.11.16
+pymongo==4.6.1
+python-dotenv==1.0.0 
