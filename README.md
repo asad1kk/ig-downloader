@@ -106,5 +106,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram) for Telegram API interactions
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) for downloading Instagram content
-- [Instaloader](https://github.com/instaloader/instaloader) as a backup downloader 
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details. 
